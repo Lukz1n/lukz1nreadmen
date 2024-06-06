@@ -42,7 +42,7 @@
       </a>
     </td>
  <td align="center">
-      <a href="https://fir3.cc/lion7">
+      <a href="https://e-z.bio/lukz1n>
         <img align="center" alt="WebSite" width="20px" src="https://simpleicons.vercel.app/circuitverse/6366f1" />
       </a>
     </td>
