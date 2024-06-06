@@ -16,7 +16,7 @@
 
 <div align="center">
   <img  src="https://pin.it/1sbfJsbbF"
-       alt="snake" /></a>
+       alt="maxvers" /></a>
 </div>
 
 --------------------------------------
@@ -42,7 +42,7 @@
       </a>
     </td>
  <td align="center">
-      <a href="https://e-z.bio/lukz1n>
+      <a href="https://e-z.bio/lukz1n">
         <img align="center" alt="WebSite" width="20px" src="https://simpleicons.vercel.app/circuitverse/6366f1" />
       </a>
     </td>
