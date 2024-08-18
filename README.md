@@ -15,7 +15,7 @@
 
 
 <div align="center">
-  <img  src="[https://lukzin.is-fucking.black/c1sl6nev.jpg](https://lukzin.is-fucking.black/c1sl6nev.jpg)"
+  <img  src="[https://lukzin.is-fucking.black/c1sl6nev.jpg]"
        alt="maxvers" /></a>
 </div>
 
