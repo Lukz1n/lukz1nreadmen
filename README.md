@@ -15,7 +15,7 @@
 
 --------------------------------------
 										
- <p align="center"> 🍃, Welcome to My Github!
+ <p align="center"> 🍃, Seja Bem Vindo(a) ao Meu Github!
 
 --------------------------------------
 
