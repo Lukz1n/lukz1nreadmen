@@ -15,7 +15,7 @@
 
 --------------------------------------
 										
- <p align="center"> 👋, Olá, Eu sou o Lukzin!
+ <p align="center"> 🍃, Welcome to My Github!
 
 --------------------------------------
 
