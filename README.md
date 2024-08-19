@@ -13,12 +13,6 @@
 • 🌟 Main languages: C# and HTML.
 ```
 
-
-<div align="center">
-  <img  src="[https://lukzin.is-fucking.black/c1sl6nev.jpg]"
-       alt="maxvers" /></a>
-</div>
-
 --------------------------------------
 										
  <p align="center"> 👋, Olá, Eu sou o Lukzin!
